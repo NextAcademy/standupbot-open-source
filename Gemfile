@@ -55,6 +55,7 @@ group :development, :test do
   gem 'spring'
 
   gem 'mailcatcher'
+  gem 'figaro'
 end
 
 group :test do
